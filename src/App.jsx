@@ -1,11 +1,7 @@
 function App() {
 
   return (
-    <>
-      <p className="underline">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <h1>This is the Travel Planner App</h1>
   )
 }
 
