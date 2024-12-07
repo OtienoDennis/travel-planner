@@ -1,0 +1,1 @@
+The travel planner app helps users to organize trips effortlessly. Users can search for destinations, view details about attractions, activities and accomodations, and plan their itineraries in one convenient platform.
